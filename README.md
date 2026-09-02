@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [1716-calculate-money-in-leetcode-bank](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 <!---LeetCode Topics End-->
