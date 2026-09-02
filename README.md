@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
