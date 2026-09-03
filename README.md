@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1487-making-file-names-unique](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1487-making-file-names-unique) |
 | [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Simulation
 |  |
 | ------- |
@@ -51,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1487-making-file-names-unique](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1487-making-file-names-unique) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 <!---LeetCode Topics End-->
