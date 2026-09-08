@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0771-jewels-and-stones](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1399-count-largest-group](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1487-making-file-names-unique](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1487-making-file-names-unique) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [1399-count-largest-group](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1399-count-largest-group](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 ## Greedy
