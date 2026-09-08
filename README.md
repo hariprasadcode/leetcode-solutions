@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
 ## Two Pointers
 |  |
 | ------- |
