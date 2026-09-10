@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0705-design-hashset) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0389-find-the-difference](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1200-minimum-absolute-difference](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0389-find-the-difference) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
