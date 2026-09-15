@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0056-merge-intervals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0566-reshape-the-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1920-build-array-from-permutation](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Math
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
