@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0705-design-hashset](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0766-toeplitz-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1200-minimum-absolute-difference](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 ## Divide and Conquer
 |  |
