@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1399-count-largest-group](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1518-water-bottles](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
