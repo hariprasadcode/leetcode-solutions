@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2352-equal-row-and-column-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3921-score-validator](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1518-water-bottles](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [2352-equal-row-and-column-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3894-traffic-signal-color](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3921-score-validator) |
 ## Math
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [2352-equal-row-and-column-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
