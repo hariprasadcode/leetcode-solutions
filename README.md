@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [3921-score-validator](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
 | [1518-water-bottles](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1920-build-array-from-permutation](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
+| [3921-score-validator](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3921-score-validator) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1487-making-file-names-unique](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1487-making-file-names-unique) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3921-score-validator](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3921-score-validator) |
 ## Linked List
 |  |
 | ------- |
