@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0566-reshape-the-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0566-reshape-the-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0268-missing-number) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1200-minimum-absolute-difference](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0268-missing-number) |
 | [0829-consecutive-numbers-sum](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1399-count-largest-group](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1399-count-largest-group) |
@@ -150,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0389-find-the-difference) |
 ## Quicksort
 |  |
