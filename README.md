@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2057-smallest-index-with-equal-value) |
+| [2347-best-poker-hand](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3921-score-validator](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3921-score-validator) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2347-best-poker-hand](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2347-best-poker-hand](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2347-best-poker-hand) |
 | [2404-most-frequent-even-element](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
