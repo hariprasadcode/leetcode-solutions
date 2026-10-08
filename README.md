@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1487-making-file-names-unique](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1487-making-file-names-unique) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1487-making-file-names-unique](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1487-making-file-names-unique) |
+| [1512-number-of-good-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1399-count-largest-group](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1512-number-of-good-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1399-count-largest-group](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1399-count-largest-group) |
+| [1512-number-of-good-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
