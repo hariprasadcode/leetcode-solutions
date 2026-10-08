@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3894-traffic-signal-color](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3921-score-validator) |
+| [3959-check-good-integer](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Math
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [3099-harshad-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3894-traffic-signal-color](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3894-traffic-signal-color) |
+| [3959-check-good-integer](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3959-check-good-integer) |
 ## Greedy
 |  |
 | ------- |
