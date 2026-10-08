@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [3099-harshad-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3894-traffic-signal-color](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
