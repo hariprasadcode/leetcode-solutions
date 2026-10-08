@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0804-unique-morse-code-words) |
 | [1200-minimum-absolute-difference](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0829-consecutive-numbers-sum](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1399-count-largest-group](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1399-count-largest-group) |
 | [1518-water-bottles](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Enumeration
 |  |
 | ------- |
