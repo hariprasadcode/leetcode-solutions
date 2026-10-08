@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0633-sum-of-square-numbers](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0829-consecutive-numbers-sum](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0829-consecutive-numbers-sum) |
 | [0836-rectangle-overlap](https://github.com/hariprasadcode/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
