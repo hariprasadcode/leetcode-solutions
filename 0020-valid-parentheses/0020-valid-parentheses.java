@@ -1,9 +1,10 @@
 class Solution {
     public boolean isValid(String s) {
+
         Stack<Character>stack= new Stack<>();
 
         for(char x : s.toCharArray()){
-            if(x=='(' || x=='[' || x=='{'){
+            if(x=='(' || x=='{'|| x=='['){
                 stack.push(x);
             }
             else{
@@ -13,9 +14,10 @@ class Solution {
 
                 char top=stack.pop();
 
-                if(x==')' && top!='(') return false;
+                if(x==')' && top!='(')return false;
+                if(x=='}' && top!='{')return false;
                 if(x==']' && top!='[')return false;
-                 if(x=='}' && top!='{')return false;
+
 
             }
         }
