@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3731-find-missing-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3921-score-validator](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3921-score-validator) |
 ## Two Pointers
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2347-best-poker-hand](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2347-best-poker-hand) |
 | [2404-most-frequent-even-element](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3894-traffic-signal-color](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3921-score-validator) |
