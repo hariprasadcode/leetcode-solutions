@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2347-best-poker-hand](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
+| [3731-find-missing-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3921-score-validator](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3921-score-validator) |
 ## Two Pointers
 |  |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/hariprasadcode/leetcode-solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [3731-find-missing-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2352-equal-row-and-column-pairs](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2404-most-frequent-even-element](https://github.com/hariprasadcode/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3731-find-missing-elements](https://github.com/hariprasadcode/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
