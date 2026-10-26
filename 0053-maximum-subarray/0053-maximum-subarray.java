@@ -8,9 +8,8 @@ class Solution {
             psum=Math.max(psum+x,x);
             submax=Math.max(psum,submax);
         }
-        return submax;
         
-
+        return submax;
 
     }
 }
